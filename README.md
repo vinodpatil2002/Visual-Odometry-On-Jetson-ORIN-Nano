@@ -67,28 +67,12 @@ You will get to know once you get the above error so just copy those files in th
 ### Commands for installing :
 
 ```
-$ git clone https://github.com/IHKYoung/ORB_SLAM2.git
-$ cd ORB_SLAM2
+$ git clone https://github.com/vinodpatil2002/Visual-Odometry-On-Jetson-ORIN-Nano.git
+$ cd Visual-Odometry-On-Jetson-ORIN-Nano/ORB_SLAM2
 $ ./build.sh
 ```
 
-OR
-```
-$ git clone https://github.com/IHKYoung/ORB_SLAM2.git
-$ cd ORB_SLAM2/Thirdparty/DBoW2/
-$ mkdir build  && cd build
-$ cmake ..
-$ make -j4
-$ cd ..
-$ cd g2o
-$ mkdir build  && cd build
-$ cmake ..
-$ make -j4
-$ cd ../..
-$ mkdir build && cd build
-$ cmake ..
-$ make -j4
-```
+
 
 Note : Remember to remove the build files from the directory where it's built.
 
