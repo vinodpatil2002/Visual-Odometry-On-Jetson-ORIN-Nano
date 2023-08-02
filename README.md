@@ -110,8 +110,6 @@ Connect stereo camera to your Jetson Nano board and make sure it's connected pro
 If any minor errors while installing, refer to the issues mentioned in the original repository or any other online sites or AI.
 
 
-## Demo:
-![ezgif com-optimize](https://github.com/vinodpatil2002/Visual-Odometry-On-Jetson-ORIN-Nano/blob/27c6076a67111ee97b71356d347c1bee47e7a04e/GIFMaker_me.gif)
 
 ## Authors
 
