@@ -111,7 +111,7 @@ If any minor errors while installing, refer to the issues mentioned in the origi
 
 
 ## Demo:
-![Demo Video](https://github.com/vinodpatil2002/Visual-Odometry-On-Jetson-ORIN-Nano/blob/62f4ca6c20519943e7ee58528030eaa8db89bcc1/clideo_editor_1051f6e4f56e4626833e6349d863ad28.mp4)
+![ezgif com-optimize](https://github.com/vinodpatil2002/Visual-Odometry-On-Jetson-ORIN-Nano/blob/27c6076a67111ee97b71356d347c1bee47e7a04e/GIFMaker_me.gif)
 
 ## Authors
 
